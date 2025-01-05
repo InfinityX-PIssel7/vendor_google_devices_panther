@@ -494,6 +494,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleFUSIONPro \
     OemDmTrigger \
     PixelCameraServices \
+    SCONE-v37764 \
     TetheringEntitlement \
     WfcActivation \
     OemRilHookService \
